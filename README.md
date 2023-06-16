@@ -1,8 +1,8 @@
 <img src="./header.png" hight="1000" width="1500"><br>
 
-<span style="font-size: 35px;">:student: I’m currently a full-stack Software Development student at Microverse.</span>
+<span> <h6>:student: I’m currently a full-stack Software Development student at Microverse.</h6>
 <br>
-<span style="font-size: 35px;">:sunglasses: I’m looking to collaborate and build awesome projects.</span>
+<span> <h6>:sunglasses: I’m looking to collaborate and build awesome projects.</h6>
 <br>
 <span style="font-size: 35px;">💬 Ask me anything, or let's just build and play with codes.</span>
 <br>
