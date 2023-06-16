@@ -1,7 +1,7 @@
 <img src="./header.png" hight="1000" width="1500"><br>
 
-<span> <h5>:student: I’m currently a full-stack Software Development student at Microverse.</h5>
-<span> <h5>:sunglasses: I’m looking to collaborate and build awesome projects.</h5>
+<span> <h5>:student: I’m currently a full-stack Software Development student at Microverse.</h5> </span>
+<span> <h5>:sunglasses: I’m looking to collaborate and build awesome projects.</h5></span>
 <span style="font-size: 35px;">💬 Ask me anything, or let's just build and play with codes.</span>
 <br>
 <span style="font-size: 35px;">:video_game: Fun fact: I love gaming, movies and reading.</span>
