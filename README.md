@@ -1,7 +1,3 @@
-<h1 align="center">Hey There 👋, I'm Aniekan Winner Anietie. </h1>
-
-<h3 align="center">A passionate Software Developer from Nigeria</h3>
-
 <img src="https://github.com/DevaWinner/DevaWinner/blob/7b5fd3ac016e417202d393031fa7f0f52dacfa41/header.png" hight="1000" width="1500"><br>
 :student: I’m currently a full-stack Software Development student at Microverse.<br>
 :sunglasses: I’m looking to collaborate and build awesome projects.<br>
@@ -9,11 +5,7 @@
 :video_game: Fun fact: I love gaming, movies and reading.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Medium-%231877F2.svg?logo=Medium&logoColor=white)](https://medium.com/@winneraaniekan) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winnera/) 
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WinnerDevq) 
+[![Facebook](https://img.shields.io/badge/Medium-%231877F2.svg?logo=Medium&logoColor=white)](https://medium.com/@winneraaniekan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winnera/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WinnerDevq) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
